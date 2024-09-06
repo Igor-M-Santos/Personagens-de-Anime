@@ -1,3 +1,4 @@
+Desvendando Personagens - Imersão Dev com Google Gemini
 ```markdown
 ## **README.md Descontraído para sua Aplicação de Animes**
 
